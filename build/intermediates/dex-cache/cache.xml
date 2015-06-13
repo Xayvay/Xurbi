@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-6a6b83bafa89b3e38b65115b64ba5b5393ae79bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-323d6278354aad7955aee2c21a7bc30b264d8880.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-43d6ea716626a7a7161c85a4e0588ab8a166e21d.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-52f18bfeeb04774bd9b51cd1a4eff04796c3b3ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-813f50db16bbeb8ef422a306032156009148379f.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-c78d5e7e1ec3866fafe3a458aeadd6b3a12b3c66.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-fecea5b561008071ef8756bbfc411fe0f4693813.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-559c111b0dfddded0e73a339c69c40347e95f94f.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-defbdd20035e32d6ab7424b10356086d7d775416.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-db2be528fa5dd2292bda593f1e9e6d6de0d243b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-c44535b93357862312acc1bb00181af6d545f020.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-7c36c050fe17b132bc631f5efeeaeb3f22673637.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-52a06bc8ad8377f1a3be93666232cc7e8548ca0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-7ac3f76d914882fac54cd5222894cc01f1169012.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-4fd8b49c26421929fc63711865269dab9919ad00.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-ff0ef9b24d63ce1077d53bc52aa09403f105d81a.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-e62dd27d2ab08717ba04c87f478923695acebf12.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-c097d01a2bf49319690f75d8fdbf3359878e3080.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-1906255d4e62acdffc2c4362a0485df9e3b978f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-3b55906b8f99f71a6e7dd7d7f7bc99d1f83f935d.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-818f195f070fc1eb4be8dbf7bbe8c63a1e6cb0a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-69adf4d5ecd97ebb7aae328977ed5dee0e9a1761.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-c9e4d32cdcf6961f2ab6199ef94e9487ca8e7300.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-d3eb7d73f3d87de8722ca85760a413379bc7fbb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-507c036e27b993dd0efd7ea5599fb2d32f1f4af5.jar" />
+    </item>
+    <item
+        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-d6af1bd8b383f0d7586f58f662ee50b9846fe515.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/xurback"
+    android:weightSum="1">
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.64">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text=""
+        android:textColor="@color/Black"
+        android:id="@+id/getText"
+        android:layout_gravity="center_horizontal" />
+    </HorizontalScrollView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:imeOptions="actionDone"
+        android:hint="Say anything you want !"
+        android:textColorHint="@color/Gray"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:textColor="@color/Black"
+        android:background="@color/Beige"
+        android:layout_weight="0.25"
+        android:inputType="text"/>
+
+    <Button
+        android:id="@+id/Button04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:background="@color/LightGrey"
+        android:text="Send a XURBI!" />
+
+
+</LinearLayout>

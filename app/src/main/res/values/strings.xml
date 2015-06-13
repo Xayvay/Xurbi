@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Xurbi</string>
+
+    <string-array name="pages_array">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Explore</item>
+        <item>Friends</item>
+        <item>About</item>
+        <item>Contact Us</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_websearch">Search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="title_activity_home">Home</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
