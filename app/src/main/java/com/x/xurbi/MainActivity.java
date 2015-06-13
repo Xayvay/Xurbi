@@ -30,6 +30,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+//push stuff will delete
 
 public class MainActivity extends FragmentActivity  {
     private DrawerLayout mDrawerLayout;
@@ -230,7 +231,7 @@ public class MainActivity extends FragmentActivity  {
     				public void onClick(View v) {
 
     			    	makeText = receive.getText().toString() + "\n" + send.getText().toString();
-                     
+
                         receive.setText(makeText);
                         send.setText("");
 
