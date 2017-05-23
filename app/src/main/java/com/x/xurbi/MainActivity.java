@@ -244,99 +244,9 @@ public class MainActivity extends FragmentActivity  {
     	
     }
     
-    public static class Profile extends Fragment {
 
-    	public static Fragment newInstance(Context context){
-    		Profile p = new Profile();
-    		return p;
-    	}
-    	
-    	public Profile(){
-    		
-    	}
-    	@Override
-    	public boolean onOptionsItemSelected(MenuItem item) {
-    		// Handle action bar item clicks here. The action bar will
-    		// automatically handle clicks on the Home/Up button, so long
-    		// as you specify a parent activity in AndroidManifest.xml.
-    		int id = item.getItemId();
-    		if (id == R.id.action_settings) {
-    			return true;
-    		}
-    		return super.onOptionsItemSelected(item);
-    	}
-    	
-    	public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                Bundle savedInstanceState) {
-    		View rootView = inflater.inflate(R.layout.profile, container, false);
-    		
-    				return rootView;
-    		
-    	}
-    	
-    }
-    public static class Friends extends Fragment {
 
-        public static Fragment newInstance(Context context){
-            Friends f = new Friends();
-            return f;
-        }
 
-        public Friends(){
-
-        }
-        @Override
-        public boolean onOptionsItemSelected(MenuItem item) {
-            // Handle action bar item clicks here. The action bar will
-            // automatically handle clicks on the Home/Up button, so long
-            // as you specify a parent activity in AndroidManifest.xml.
-            int id = item.getItemId();
-            if (id == R.id.action_settings) {
-                return true;
-            }
-            return super.onOptionsItemSelected(item);
-        }
-
-        public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                                 Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.friends, container, false);
-
-            return rootView;
-
-        }
-
-    }
-    public static class Interest extends Fragment {
-
-        public static Fragment newInstance(Context context){
-            Interest i = new Interest();
-            return i;
-        }
-
-        public Interest(){
-
-        }
-        @Override
-        public boolean onOptionsItemSelected(MenuItem item) {
-            // Handle action bar item clicks here. The action bar will
-            // automatically handle clicks on the Home/Up button, so long
-            // as you specify a parent activity in AndroidManifest.xml.
-            int id = item.getItemId();
-            if (id == R.id.action_settings) {
-                return true;
-            }
-            return super.onOptionsItemSelected(item);
-        }
-
-        public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                                 Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.interest, container, false);
-
-            return rootView;
-
-        }
-
-    }
 
     public static class Popular extends Fragment {
 

@@ -2,186 +2,814 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/57f743b1ec4315b0168f3cb8c72c0172725c2a7d/output/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-6a6b83bafa89b3e38b65115b64ba5b5393ae79bd.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-323d6278354aad7955aee2c21a7bc30b264d8880.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-43d6ea716626a7a7161c85a4e0588ab8a166e21d.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-52f18bfeeb04774bd9b51cd1a4eff04796c3b3ac.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-813f50db16bbeb8ef422a306032156009148379f.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-c78d5e7e1ec3866fafe3a458aeadd6b3a12b3c66.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        optimize="true"
+        revision="25.0.0"
         sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-fecea5b561008071ef8756bbfc411fe0f4693813.jar" />
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_d78ea120cd5544faa52eb75ff0ca3b04c7d5b2a4.jar" />
     </item>
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-559c111b0dfddded0e73a339c69c40347e95f94f.jar" />
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/e7f62d059f563dc92a25ec9896ba84247fb3ebd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7df71f411c4a4ee549ce1930b27dcfb8ae3e2fe/classes.dex" />
     </item>
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-defbdd20035e32d6ab7424b10356086d7d775416.jar" />
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/cc17f38111a6c49d32e8625573526ecc8d971c7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b5005c91750dc0ca4c4bd16f3248fcecc3c7acd/classes.dex" />
     </item>
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-db2be528fa5dd2292bda593f1e9e6d6de0d243b7.jar" />
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/c0717633576fd9c6b7ef7b1de5588ca4af2705c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc107070b791f54388ef0c2c2bfbd63427782154/classes.dex" />
     </item>
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-c44535b93357862312acc1bb00181af6d545f020.jar" />
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/bbff9a841c479ae54239cde3b45a303d8966ff86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b37559d7b2b765a75d61e37547d7422da02261e/classes.dex" />
     </item>
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/58d0c436fb83f1f1ee1bde031c57a8831dbb51ff/output/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-7c36c050fe17b132bc631f5efeeaeb3f22673637.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-52a06bc8ad8377f1a3be93666232cc7e8548ca0b.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-7ac3f76d914882fac54cd5222894cc01f1169012.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-4fd8b49c26421929fc63711865269dab9919ad00.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-ff0ef9b24d63ce1077d53bc52aa09403f105d81a.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-e62dd27d2ab08717ba04c87f478923695acebf12.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-c097d01a2bf49319690f75d8fdbf3359878e3080.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-1906255d4e62acdffc2c4362a0485df9e3b978f3.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-3b55906b8f99f71a6e7dd7d7f7bc99d1f83f935d.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-818f195f070fc1eb4be8dbf7bbe8c63a1e6cb0a3.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-69adf4d5ecd97ebb7aae328977ed5dee0e9a1761.jar" />
-    </item>
-    <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        optimize="true"
+        revision="25.0.0"
         sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-c9e4d32cdcf6961f2ab6199ef94e9487ca8e7300.jar" />
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_ce699955b77db597c4cff474b669bcaab8f53d44.jar" />
     </item>
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-d3eb7d73f3d87de8722ca85760a413379bc7fbb6.jar" />
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/bdc425e18aeb27eeb1c56ffa038490fb7a3fcd40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61cfebdbd2b5b55991ae3a6609cf27634e3b7043/classes.dex" />
     </item>
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/a1edf6f4268c45a9225f66120e50435aff39d64a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0eae667b73ac6eb98a85a2e464ef258364f662e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/3a7e21aa0ae64494435770504bc76cba51209ce0/output/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.2"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_22c5d5ddc764d40281c4e1684e29249be9faf931.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96506ef2a0928a7ddaf2cef9505b16c76f28c8f2">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2f38e04e2cdfb26393948a3f20efcf5c0cbf6f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/dd8b8cecd30aad1c844360f00932a00567db4317/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2120b28c00650de540d3f1ee7fc65025e1d97de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/e83d9fe3bc2bcc7c53b2766bad8f467fd5052e99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_510bfb631ce69d2c9935eed1613c71d32f688664/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/8bf2e508d0c7fc5442128eb4e772114f90ee7c60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_6d7e9fc1d312e932ed3683cb439c77d4e10d09cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/b552a7997bd5d7c62ef19aa407b9723e01838ff1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22ba003941b459b7096ce4e98cead27c9312c5dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/cf1b3f0a64eabe07fa367b3ffe870272c88b1c71/output/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_e31b1a6d27ec520bbf57974ef3554bc49cda352b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/e14fedfc528e4c5c8c8bf894a0cb09cff9e469f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd51a28e0d6807277d4d6cb5ee182e09da64970c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/d02e152db51132d202364ae3777b50a1dc7b468e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_929dcdd0f7bba046e48a204140c1a422b41e8595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/7d3793301842777797bce0333adacb621bd15cf6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be39a20c62ec1745087c2cb66405e0f74ef0e1d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/2a5c03273481cbb6e7e10041c9931482bf1ef9f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33950889cd089029585e3126353691f09e95b9fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/976c5d2418d939dab8b2aabd1e85b903377726af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_b8abf2a4bbbf45681e47cad371d1dc873266598f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91caca7b54c18818fc292290b435b3a1e9e7af2c">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2f38e04e2cdfb26393948a3f20efcf5c0cbf6f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/7634d108c1e909f45dc6c8e16aea73d2a8a23209/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b51f412166f05b0752f2576fcd440e1d0b5e714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/92d357492e0827e487b8bb035a0ff97fe4f33d4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c66b135b030e267456b43f2e93a5104f79e8436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/32f023acfc1d62ef20b00f91b23436213d7813c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a85a39ad487edee53ab74b29786f04624d57bf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/59e1bff1b195b963e6965efc8aa0107f180b2845/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf481b2af4d8f89935baf75972976b5681533176">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f5decb4bd8c346be5b617f2a687512d1a94be3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/ee624bd51034c02ae48f0fd75665edeefe9ac22d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a22125b3edd6557881ea8ce62e0ca389a4f8ca0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_af6dedc396c0442e25ad09685060227044027612.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/4db97faafb6b2ca24090e8f5c786017407cdba70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6790cae3b2fa09dc448287f106d102597c620c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/e840332fdc65fdadde27df6d2668294b18d4ec52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_81267cd24c3033a0428c0f7bf4634ce49763ae72.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/749f97bddad2bc90f5c43aef393c3c9beaccdf04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b42bd4119a4458b64e84f30dada8773d4a9ea6c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/c048ff236a7b2c87e4dbcababd85edd7638089bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a07b1270559ebd64dd41ae87553f3f5e1a13b61a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/7135f40989cfbb6b081bda9b1669dfcf970abdc9/output/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_2713fbb6f5c2c2298435101cb94cfd7585e8f7c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_af25217fba7b01620fbce60166042a2ea5c5f0dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/8e12fdf2cd0f9663b96d13bb9531c808faa537ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_82ccb806c3ab1135dc6ac93cb4f02d35fc10fb8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/cb57faf99cf99772468cb33cad606593a9e60b5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_085fe0271068b3ef94727b7509a6a260400a78bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/b59a297f821d825237a4fec59be52ac8356aec50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2daae9beae547e1734906f6347ee7d6f900e3f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/14bdaa9c892430dfe94a292cecd2273492cad8e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_0ab67a6c99e930aa876990605d5bdf6409bf5f36.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/45d23043d5abee4aaf3fed00865e89769b348f0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df4ebdd0942ca57689d0ca95893ed037e57ad345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/67591283f2080bf4c2ecd9eae8a1eb4e0e649eac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a56ea094c5432cc3c8553a1637c96a00dc53b93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/4dc8603384deec3627b0ac9dd07b195e6ce58133/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b674207fe5474776fa24430d2866bca5ee98b377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/cae0e3946f8c17eb66320f5ecfb4af35c28a6c54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df749207d9cf851a9923de777143fd6627f8220f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/4260c153a1c902645de825ec9200ec86caf9b1fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce417db958659a7c0af4de282a22240da074d43e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/6d5b5bc6578bf575ed528dc3cbd746baa308477a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6eacc5cbdca314b6ccfec9beb5ac6633832318b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/342ca6e640d5a29c9d6ac935b41a8f9829ed82ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb06978ab9e46ed464234a2879a739211812078f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/2e58b1ea26c8ec149f44ff387cf18fa6435732c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cf690513c1257fe50e2f4b871733dd2718518c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/1955500a1f0e63cb37540c7d1ea9095f1e54d80c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_e90d112c4354108080d2700c4e4a11f44bcff9cd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/fc0c7a7355df9ad31611f57116503e32355f91d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1be697f27ffe2205676bca0ec5f469e69294a79c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/f3584a032a9b9702ca52da9544e7dad069031c51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b757e6864592e18701ebbd7887e40d15e517311/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/064404042aed334c3c21d7095c9186115e292e1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-507c036e27b993dd0efd7ea5599fb2d32f1f4af5.jar" />
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_a2b6938da17234a5a0938c968d61e5692b260a9d.jar" />
     </item>
     <item
-        jar="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/df29f80799819d47e65bcf6611e9c624b7940225/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5f287cbcc5c6db9192b3d351341ce48755c3fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/6d8a9abfe03b0341cb88b96baa824edb9d82aa30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a2707ea0d7c7de38c7cd43d93c9d3a24043d004/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/2a194ba0f1f7f4a8334d55048de7e961108fd0e0/output/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.2"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_987d3b54cf36046cca288be2c5c4f6444bcc92d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/879869d328aebf5b13419f0d41cd823bd855af78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13761ccdf46c05bafcfce23aa6d22fc889a77f30/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/4c7872021f1ac0d4b3e2a36a7f4623a0ba9bbc4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_55f1a6bc50ac33ceb26a731d8a3f8a71b1688e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/d0912b1114557dd891cf14915de2004f55d1a8c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="C:\Users\X\AndroidstudioProjects\Xurbi\app\build\intermediates\pre-dexed\debug\classes-d6af1bd8b383f0d7586f58f662ee50b9846fe515.jar" />
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_9fd74ca77b48d8b1a62ce4fbc86d50e1093c86dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/b0f593aa63e82622d5bfdd63edf359dd1cd05e1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_ff5950d302443d5610640775ba4765decaca6834.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_af25217fba7b01620fbce60166042a2ea5c5f0dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/362b355ed915ea69c2f180b7e01d9760a109e56f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f9e31d59ec078d5a780f11d88c2ed0a251dc883/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/f9a8a2ae53053463d339a1d7407b4c5c8c45d501/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_931b1b2381431e2407db86d50c2a094ae2d464a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/e6561142d98d7a24ff5ffb068e062f75548e85e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_74e67b3320c862132e4c3aabfcbf45584e75606f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/2487e81d5b7d742b9b741254b2f13e33ab2bf141/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03e7ca137c3e7730fb179a473ed73c992d431f0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/1703fda28ecfaae1df28a200bcb1bff2aa02863d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_02288e7726bac3e96ccd099d2b0247d875c0f6fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/7135f40989cfbb6b081bda9b1669dfcf970abdc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_e76644ed288607f6c34e7509cd985f9492c9496c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/2f4c6d6704563b0441c2f0fda29bbc4f0e1ac17b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_bf5f11ccd0d48552239a6ed3ecc908d29cf6066f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/7359a58704fbddef035da48522c2d4fa246453ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b43b92082d7b5645d271f69c1b7a894d5584b8bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/2c6b4efb5626798c11ddd097380c8c993f4d14ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2de236e426a2c69a3d6b25945b36865bc1cf791/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/cf1b3f0a64eabe07fa367b3ffe870272c88b1c71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_4187677bdbaf77689f5e2170fc36ee1cc4ce8d4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/bd83d98bfa310c571a0a2b79f8f932a96d465e68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b65afb86b44b137f57639f9886b22d1375047766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/d377936bd42321a28786cd08d66e8636aaa8138f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d98b665d57252db99607ea6719437690f077f31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/7b1ea3a7c6bf7ea3f829932d5399b769e65fd55b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94cc10f835f18419f4effacf3886e7a3316e375e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/814fd8aa07a424ea9bdc0325a8a21a11277ca3c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_dfa3dff70e6764ea04d20207ef21fa01cd01ab2d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/d7995dca06982650f28801cf7265aa89953ce16e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3bf35bccbe9889d173562a4fa501c7b59124c50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/325fd907c552d5fab573bae93b7a0c0e1bfa1aff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a86af49c195307316be6ec7c73c6a124f96859d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/2b194061a116256feea43645fba40f132016687e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d33ed5abd78e814cde902a4b2bdc870761303753/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/f76a77d87a03797a7bf675b58b008089eabe6a4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_82ab88d082fb272d80d3b88c79c6dd69e5e9b2ca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/5dac966c0416078edbf8dc4563bc60afd702c38c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c9d7ba1d9f2fbca37d3f9cd2fe2232a76db5c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/642286998b191aa144e47a4a20413c1475c45a24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1655317d4611e6bac8966596e69473bb7a0c60a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/29434a95dbf543c35edf9d28e2ee1fc375b66bc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70d2d7c53d2ec6424b8e522006e4bb28d7f4ab7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/ae3308abfefc8b843f29549e74e7d2b68d3c303f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e32b07bb62c733dd2fdea8bc14094dce4742e031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_d6cfea45f3d031fca8d0bb1c73f768e4a987930b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/bc863394ccbbe121c1095ae457ca077f52863d3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_803c03b03c84a0a3cf9bac60c99b14f1ae04b1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Xayvay/.android/build-cache/f94c65afd4bdbc3303cf407490be01a1efbcb0bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/pre-dexed/debug/classes_ee6d964c9eb5e8a273adca4b02fbfb9d17af21a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/6ae90d1b3513ac9447d2a0bf9d72c484f4fdaf29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df4ed3dc9a03e1cd132b68cea9da920d76dcb460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/8610985d2bd66298e27ef6db64fdf87d1e3a5241/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7ab56a8b96c790ca36e1a37002665d54f90a483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/27c8a0f31f730a2fd3ebb3cc1cc9b26c83b8cc20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_494bf85b4586e5d73223e2f2dcab4da929224db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/cebdbd59261dcb66e910fb4c4533ca907c1c871f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97d62b03009bb62e9e9911509b184984be474fb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/62a51e0e405e044ee0167b5af590daac759b1e58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00d6e17a484093b8534c739be3a64509570607dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/d049694dab882dc56df82811c985fd1203bc906a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6405fdeb40c9303e8c3ed3f5a5f356d6b719fc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/ac783731c724d3fd84ac4a8b6734df74ade9e27d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b62b5eed9871ba9bbc9295ac69c697148faca33a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Xayvay/.android/build-cache/681a5f6d9d6be98abeab3e6aee092a22d0a7ecbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/Xayvay/Desktop/Xurbi/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57dc12a89339a2237109c696ae710b8295b48507/classes.dex" />
     </item>
 
 </items>

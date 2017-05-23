@@ -4,13 +4,13 @@ apply plugin: 'com.google.gms.google-services'
 
 
 android {
-    compileSdkVersion 21
-    buildToolsVersion "21.1.2"
+    compileSdkVersion 25
+    buildToolsVersion '25.0.3'
 
     defaultConfig {
         applicationId "com.x.xurbi"
         minSdkVersion 14
-        targetSdkVersion 17
+        targetSdkVersion 25
     }
 
     buildTypes {
@@ -18,11 +18,12 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
+
     }
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:21.0.3'
-    compile 'com.android.support:appcompat-v7:21.0.3'
-    compile "com.google.android.gms:play-services:7.5.+"
+    compile 'com.android.support:mediarouter-v7:25.3.1'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile "com.google.android.gms:play-services:10.2.6"
 }
