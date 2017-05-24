@@ -12,6 +12,7 @@ import android.view.ViewGroup;
  * Created by Xayvay on 5/22/17.
  */
 
+
 public class Friends extends Fragment {
 
     public static Fragment newInstance(Context context){
@@ -43,3 +44,7 @@ public class Friends extends Fragment {
     }
 
 }
+
+
+
+

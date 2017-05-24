@@ -9,16 +9,20 @@ import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
-public class Home extends Fragment {
+// Will try to put in own class later
+public class Home extends android.app.Fragment {
 
-	public static Fragment newInstance(Context context){
+	public static android.app.Fragment newInstance(Context context){
 		Home h = new Home();
 		return h;
 	}
-	
+
 	public Home(){
-		
+
 	}
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
@@ -31,11 +35,29 @@ public class Home extends Fragment {
 		}
 		return super.onOptionsItemSelected(item);
 	}
-	
+
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
-            Bundle savedInstanceState) {
-				return container;
-		
+							 Bundle savedInstanceState) {
+		final View rootView = inflater.inflate(R.layout.home, container, false);
+		Button button = (Button) rootView.findViewById(R.id.Button04);
+		final TextView receive = (TextView) rootView.findViewById(R.id.getText);
+		final EditText send = (EditText) rootView.findViewById(R.id.editText);
+		button.setOnClickListener(new View.OnClickListener(){
+			String makeText;
+			@Override
+			public void onClick(View v) {
+
+				makeText = receive.getText().toString() + "\n" + send.getText().toString();
+
+				receive.setText(makeText);
+				send.setText("");
+
+
+			}
+
+		});
+		return rootView;
+
 	}
-	
+
 }

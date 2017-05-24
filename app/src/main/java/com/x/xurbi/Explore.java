@@ -51,7 +51,7 @@ public class Explore extends Fragment {
         home.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Fragment home = new MainActivity.Home();
+                Fragment home = new Home();
                 FragmentManager fragmentManager = getFragmentManager();
             }
 
@@ -75,7 +75,7 @@ public class Explore extends Fragment {
         friends.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Fragment friends = new MainActivity.Friends();
+                Fragment friends = new Friends();
                 FragmentManager fragmentManager = getFragmentManager();
             }
 
@@ -83,7 +83,7 @@ public class Explore extends Fragment {
         interest.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Fragment interest = new MainActivity.Interest();
+                Fragment interest = new Interest();
                 FragmentManager fragmentManager = getFragmentManager();
             }
 
@@ -91,7 +91,7 @@ public class Explore extends Fragment {
         popular.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                Fragment popular = new MainActivity.Popular();
+                Fragment popular = new Popular();
                 FragmentManager fragmentManager = getFragmentManager();
             }
 
